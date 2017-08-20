@@ -20,6 +20,7 @@ namespace NetScan
 
         // test
         
+
         // Store ip list
         BindingList<IpDetails> IpList = new BindingList<IpDetails>();
 
